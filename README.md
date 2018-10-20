@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://billymcconvell.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://billymcconvell.github.io/geoposs/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Zlxb1uDVKsACL4RpVISLNue1_nnmjktVA_gGdeDO9NM/edit#gid=0
 
 ## Create your own
