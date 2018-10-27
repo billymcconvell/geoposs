@@ -287,3 +287,13 @@ span.legend-icon {
 .ladder form, .ladder div {
   display: block;
 }
+
+
+.custom {
+	background-color: #fff;
+	border-bottom: none;
+	width: auto;
+	height: auto;
+	line-height: normal;
+display: inline;
+}
