@@ -290,10 +290,6 @@ span.legend-icon {
 
 
 .custom {
-	background-color: #fff;
-	border-bottom: none;
-	width: auto;
-	height: auto;
-	line-height: normal;
-display: inline;
+	all: unset;
+	all: initial;
 }
