@@ -288,10 +288,7 @@ span.legend-icon {
   display: block;
 }
 
-
 .custom {
     all: initial;
-    * {
-        all: unset;
-    }
+    all: unset;
 }
