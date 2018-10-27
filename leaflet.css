@@ -268,8 +268,7 @@
 
 /* general toolbar styles */
 
-.custom a,
-.custom a:hover {
+.custom {
 	all: initial;
 	}
 
