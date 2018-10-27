@@ -290,6 +290,8 @@ span.legend-icon {
 
 
 .custom {
-	all: unset;
-	all: initial;
+    all: initial;
+    * {
+        all: unset;
+    }
 }
